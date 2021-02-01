@@ -78,9 +78,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 ╭════•›「 Sosmed 」
 ╿ Github :
-╿ https://github.com/Arya274/Arya-BOT3
-╿ Youtube : Drawl Nag
-╿ Instagram : @arpunchs
+╿ https://github.com/B4MBANG-94NT3NG/BTR-BOT
+╿ Youtube : BTR Channel
+╿ Instagram : @Sadboy.Edtz
 ╰═══════════════
 
 ╭════•›「 Rules 」
