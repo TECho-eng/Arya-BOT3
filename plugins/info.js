@@ -4,27 +4,27 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 
 Rec: Drawl Nag
-Script: @Nurotomo
+Script: @Sadboy.Edtz
 Github: 
-https://github.com/Arya274/Arya-BOT3
+https://github.com/B4MBANG-94NT3NG/BTR-BOT
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-Instagram: @arpunchs
+Instagram: @Sadboy.Edtz
 ➥ YouTube:
-youtube.com/DrawlNag
+youtube.com/BTRChannel
 
 *Thanks To :*
-Nurotomo
-MfarelS
-ST4RZ
+AllahSwt
+Orang Tua
+Indihome
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
-║>Request? Wa.me/6281357302007
+╠➥ Thre: 0895-4126-91100
+╠➥ Tsel: 0823-1302-1398
+╠➥ Indosat: 0858-6612-1929
+║>Request? Wa.me/13312765614
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
 }
