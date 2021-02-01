@@ -1,16 +1,16 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 Tutorial Buat Bot WA:
-Credit: *~Drawl Nag*
+Credit: *BTR Channel*
 
-Ketik di *[TERMUX]*
+Ketik di *[CMD Or Termux]*
 1) $pkg install git
 2) $pkg install ffmpeg
 3) $pkg install imagemagick
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-BOT3
+5) $git clone https://github.com/B4MBANG-94NT3NG/Arya-BOT3
 6) $ls
 7) $cd Arya-BOT3
 
@@ -21,7 +21,7 @@ Penginstalannya cuy :)
 
 _Bisa kalian liat tutorialnya di_
 *Youtube kami:*
-https://www.youtube.com/c/DrawlNag
+https://www.youtube.com/c/BTR Channel
 `.trim(), m)
 }
 handler.help = ['tutorial']
